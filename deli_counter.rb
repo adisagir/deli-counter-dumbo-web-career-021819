@@ -1,4 +1,5 @@
 # Write your code here.
+<<<<<<< HEAD
 def line(katz_deli)
   if katz_deli.size == 0
     puts "The line is currently empty."
@@ -21,3 +22,6 @@ def now_serving(katz_deli)
     puts "Currently serving #{katz_deli.shift}."
   end
 end
+=======
+
+>>>>>>> 8f2bdaed0c950aca36b19c9295a20a5de05e0b20
